@@ -1,4 +1,4 @@
-# VG_SWC
+# Fitting VG (1980) 
 Soil Water Content solution by Van Genuchten (1980)
 
 Modelo Van Genuchten (1980):
